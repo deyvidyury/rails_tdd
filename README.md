@@ -1,0 +1,1 @@
+This is a along side code developed during the course "TDD com Ruby on Rails, Rspec e Capybara (TDD with Ruby on Rails, Rspec, and Capybara)" at Udemy presented by Jackson Pires.
